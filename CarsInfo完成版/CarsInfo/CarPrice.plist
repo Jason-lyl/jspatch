@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>未知</string>
+		<key>price</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>8万以下</string>
+		<key>price</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>8-18万</string>
+		<key>price</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>12-18万</string>
+		<key>price</key>
+		<string>4</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>18-25万</string>
+		<key>price</key>
+		<string>5</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>25-40万</string>
+		<key>price</key>
+		<string>6</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>40-80万</string>
+		<key>price</key>
+		<string>7</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>80万以上</string>
+		<key>price</key>
+		<string>8</string>
+	</dict>
+</array>
+</plist>
